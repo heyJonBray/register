@@ -1,0 +1,14 @@
+{
+  "description": "jon bray is onchain",
+  "repo": "https://github.com/heyjonbray.github.io",
+  "owner": {
+    "username": "heyJonBray",
+    "email": "heyjonbray@pm.me"
+  },
+  "record": {
+    "CNAME": "heyjonbray.github.io",
+    "TXT": {
+      "_ens": "a=0x3b138FC7eC06B2A44565994CfDe5134A75915995"
+    }
+  }
+}
